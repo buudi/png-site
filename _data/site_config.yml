@@ -93,7 +93,7 @@ frontpage_introduction_banner:
   description: frontpage.intro_body
 goal_image_base: 'https://open-sdg.org/sdg-translations/assets/img/goals'
 goal_image_extension: ''
-goals_page:''
+goals_page:
   title: general.goals
   description: frontpage.instructions_shorter
 graph_color_headline: '#004466'
