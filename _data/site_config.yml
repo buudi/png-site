@@ -1,4 +1,4 @@
-analytics:
+﻿analytics:
   ua: ''
   gtag: ''
   gtm: ''
@@ -186,9 +186,6 @@ menu:
     dropdown: []
   - path: /dashboard
     translation_key: Dashboard
-    dropdown: []
-  - path: /new-menu-page/
-    translation_key: menu.new_menu_page
     dropdown: []
 metadata_edit_url: metadata
 metadata_tabs:
