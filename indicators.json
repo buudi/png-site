@@ -2134,20 +2134,4 @@
           "status": "notstarted"
         }]
     }
-  },
-  {
-    "goal": {
-      "id": "18",
-      "title": "Goal 18 Test",
-      "indicators": [
-        
-        {
-          "id": "18-1-1",
-          "title": "Indicator 18.1.1",
-          "description": "",
-          "keywords": "",
-          "href": "/png-site/18-1-1/",
-          "status": "notstarted"
-        }]
-    }
   }]
