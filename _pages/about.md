@@ -20,6 +20,8 @@ The [Sustainable Development Goals](http://www.un.org/sustainabledevelopment/sus
 
 The 17 Goals were adopted by all UN Member States in 2015, as part of the [2030 Agenda for Sustainable Development](https://sustainabledevelopment.un.org/post2015/transformingourworld).
 
+PNG have added a new goal, no 18.
+
 ## About this site
 This site is based on the open source [Open SDG](https://open-sdg.org/) platform.
     
